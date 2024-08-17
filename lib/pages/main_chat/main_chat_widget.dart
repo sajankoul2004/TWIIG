@@ -144,7 +144,7 @@ class _MainChatWidgetState extends State<MainChatWidget> {
                                     padding: const EdgeInsetsDirectional.fromSTEB(
                                         0.0, 0.0, 12.0, 0.0),
                                     child: Text(
-                                      'treads.io',
+                                      'TWIIG',
                                       style: FlutterFlowTheme.of(context)
                                           .headlineLarge
                                           .override(
